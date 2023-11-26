@@ -8,19 +8,19 @@ To run the notebooks in this project, follow these steps:
 
 1. Clone the repository:
 
-    bash
+    ```bash
     git clone https://github.com/gadhikaritxstate/Security-project.git
     
 
 2. Install the required dependencies:
 
-    bash
+    ```bash
     pip install -r requirements.txt
     
 
 3. Launch Jupyter Notebook:
 
-    bash
+    ```bash
     jupyter notebook
     
 
